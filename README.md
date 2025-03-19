@@ -2,7 +2,7 @@
 
 **Introduction:**  
 
-Hello everyone, my name is Rahil, and I’m excited to present an analysis of **Chemicals in Cosmetics**, drawing insights from data reported to the California Safe Cosmetics Program (CSCP). This program, under the California Department of Public Health, aims to ensure transparency about hazardous and potentially hazardous ingredients in cosmetic products sold in California.  
+Hello everyone, my name is Yash, and I’m excited to present an analysis of **Chemicals in Cosmetics**, drawing insights from data reported to the California Safe Cosmetics Program (CSCP). This program, under the California Department of Public Health, aims to ensure transparency about hazardous and potentially hazardous ingredients in cosmetic products sold in California.  
 
 The **California Safe Cosmetics Act** mandates manufacturers, packers, and distributors to report cosmetic products containing ingredients identified as carcinogens or toxicants. These reports include key details such as product labels, brands, chemical compositions, and the number of hazardous chemicals per product.  
 
